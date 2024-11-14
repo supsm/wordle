@@ -1,5 +1,5 @@
 # wordle
-Solves wordles with brute force
+Solves wordles with brute force (old project from 2022, with modifications, so some of the code is a bit questionable)
 
 Example usage:
 ```
